@@ -1,0 +1,27 @@
+{
+  "name": "fusion-style",
+  "version": "1.0.0",
+  "description": "A style liberary that supports css, less, sass and stylus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fusion-style",
+    "f-style",
+    "css",
+    "less",
+    "sass",
+    "scss",
+    "stylus",
+    "styl",
+    "style-lib",
+    "style-utils",
+    "css-utils",
+    "less-util",
+    "sass-util",
+    "stylus-utils"
+  ],
+  "author": "CN-Tower",
+  "license": "ISC"
+}
